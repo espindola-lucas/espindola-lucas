@@ -9,6 +9,13 @@ I'm a full stack developer. I like to learn new things about software developmen
 ![pgsql](https://user-images.githubusercontent.com/55778806/153678861-1baf3afe-bc12-4c0d-9ae4-f1727477d7e6.png)
 ![docker](https://user-images.githubusercontent.com/55778806/153678875-3412611d-4292-473b-b4d5-f97c42900507.png)
 ![linux](https://user-images.githubusercontent.com/55778806/153678881-368136cc-c81f-4b19-81c8-2d4b4f72c6b0.png)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espindola-lucas&layout=compact&theme=dark)](https://github.com/espindola-lucas/github-readme-stats)
+
+## 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=espindola-lucas&show_icons=true&theme=radical)
+
+
 <!--
 **espindola-lucas/espindola-lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
