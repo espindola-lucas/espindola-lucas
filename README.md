@@ -20,7 +20,7 @@ I'm a full stack developer. I like to learn new things about software developmen
 
 ##
 
-![Lucas Espindola GitHub stats](https://github-readme-stats.vercel.app/api?username=espindola-lucas&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espindola-lucas&layout=compact&theme=dark)](https://github.com/espindola-lucas/github-readme-stats)
+![Lucas Espindola GitHub stats](https://github-readme-stats.vercel.app/api?username=espindola-lucas&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espindola-lucas&layout=compact&theme=dark)](https://github.com/espindola-lucas/github-readme-stats)
 
 
 <!--
