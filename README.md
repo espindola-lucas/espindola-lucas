@@ -3,7 +3,6 @@ I'm a full stack developer. I like to learn new things about software developmen
 
 ## Skills
 
-
 <!--
 **espindola-lucas/espindola-lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
