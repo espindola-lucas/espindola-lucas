@@ -20,8 +20,10 @@ I'm a full stack developer. I like to learn new things about software developmen
 
 ##
 
-![Lucas Espindola GitHub stats](https://github-readme-stats.vercel.app/api?username=espindola-lucas&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espindola-lucas&layout=compact&theme=dark)](https://github.com/espindola-lucas/github-readme-stats)
-
+<div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=espindola-lucas&show_icons=true&theme=radical">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espindola-lucas&layout=compact&theme=dark">
+</div>
 
 <!--
 **espindola-lucas/espindola-lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
