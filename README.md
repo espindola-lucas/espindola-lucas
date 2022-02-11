@@ -2,7 +2,6 @@
 I'm a full stack developer. I like to learn new things about software development.
 
 ## Skills
-![html](https://user-images.githubusercontent.com/55778806/153678832-9141da1c-05b3-4b92-902a-0fc1785a02d4.png)  
 ![css](https://user-images.githubusercontent.com/55778806/153678839-4e539b54-2688-4f15-af2d-5930aba7a954.png)
 ![js](https://user-images.githubusercontent.com/55778806/153678843-ae15edf9-7292-44a5-8a70-89635a46ee90.png)
 ![php](https://user-images.githubusercontent.com/55778806/153678851-c98dfb2e-4d6f-4fe0-a452-acea066695e9.png)
