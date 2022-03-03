@@ -7,7 +7,7 @@
    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=white">
+   <img src="https://img.shields.io/badge/-javascript-eed718?style=for-the-badge&logo=javascript&logoColor=white">
    <img src="https://img.shields.io/badge/-PHP-8892bf?style=for-the-badge&logo=php&logoColor=ffffff">
    <img src="https://img.shields.io/badge/-Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=ffffff">
    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff">
@@ -29,7 +29,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=espindola-lucas&show_icons=true&theme=radical">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espindola-lucas&layout=compact&theme=dark">
 </div>
-
 <!--
 **espindola-lucas/espindola-lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
