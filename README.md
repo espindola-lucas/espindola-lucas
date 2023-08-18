@@ -34,6 +34,7 @@
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=espindola-lucas&show_icons=true&theme=radical">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espindola-lucas&layout=compact&theme=dark">
+   <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##
