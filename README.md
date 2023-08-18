@@ -29,16 +29,6 @@
    <img src="https://img.shields.io/badge/-Linux-000000.svg?style=for-the-badge&logo=linux&logoColor=000000&labelColor=ffffff">
 </div>
 
-##
-
-<div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=espindola-lucas&show_icons=true&theme=radical">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espindola-lucas&layout=compact&theme=dark">
-   <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-##
-
 <h3> Contact me </h3>
 <a href="https://www.linkedin.com/in/lucas-nahuel-espindola-34880b205/"> 
     <img src="https://img.shields.io/badge/-linkedin-0366c3.svg?style=for-the-badge&logo=linkedin&logoColor=0366c3&labelColor=ffffff">  
